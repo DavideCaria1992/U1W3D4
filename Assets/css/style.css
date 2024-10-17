@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    background-image: url(../img/tombola-01.jpeg);
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+header {
+    margin-top: 10px;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+h1 {
+    margin-block: 30px;
+    display: inline-block;
+    font-size: 5rem;
+    color: whitesmoke;
+    text-shadow: 8px 8px 5px black;
+}
+
+.button {
+    margin-left: 150px;
+    color: rgb(170, 25, 25);
+    background-color: beige;
+    font-size: 1rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 10px solid rgb(170, 25, 25);
+    box-shadow: 8px 8px 5px black;
+}
+
+.container {
+    margin-block: 30px;
+    text-align: center;
+}
+
+.tombola {
+    border: 2px solid white;
+    background-color: rgba(0, 0, 0, 0.95);
+    width: 1140px;
+    height: 700px;
+    border-radius: 30px;
+    display: inline-block;
+}
+
+.number {
+    background-color: rgb(155, 155, 155);
+    width: 90px;
+    height: 90px;
+    border-radius: 30px;
+    display: inline-block;
+    margin: 5px;
+}
+
+h2 {
+    font-size: 2rem;
+}
