@@ -32,7 +32,7 @@ h1 {
 }
 
 .container {
-    margin-block: 30px;
+    margin-block: 100px;
     text-align: center;
 }
 
@@ -40,20 +40,24 @@ h1 {
     border: 2px solid white;
     background-color: rgba(0, 0, 0, 0.95);
     width: 1140px;
-    height: 700px;
     border-radius: 30px;
     display: inline-block;
 }
 
 .number {
     background-color: rgb(155, 155, 155);
-    width: 90px;
-    height: 90px;
+    width: 47px;
+    height: 47px;
     border-radius: 30px;
     display: inline-block;
     margin: 5px;
 }
 
-h2 {
-    font-size: 2rem;
+#x {
+    background-color: white
+}
+
+h3 {
+    display: inline-block;
+    margin-block: 10px;
 }
